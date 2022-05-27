@@ -21,7 +21,7 @@ PM_START_TEXT = """
 
 Hi {}, My name is {}! I [he](tg://user?id={}) This is a cool admin bot I'm looking at.
 
-I have built the python-telegram-bot library in python3. I am totally open source. You can see my code [here](https://youtu.be/wKL90i3cjPw).
+I have built the python-telegram-bot library in python3. I am totally open source. You can see my code [here](https://www.youtube.com/channel/UCWzUbM6ZRu0GawvAygGAbAQ?sub_confirmation=1).
 
 Watch the video below to create an admin boat like me.
 
